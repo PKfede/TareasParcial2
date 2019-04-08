@@ -1,0 +1,15 @@
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\bin\Debug\Wpf-BubblingEvents.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\bin\Debug\Wpf-BubblingEvents.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\bin\Debug\Wpf-BubblingEvents.pdb
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents.csprojAssemblyReference.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\MainWindow.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\App.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents_MarkupCompile.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents_MarkupCompile.lref
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\MainWindow.baml
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents.g.resources
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf_BubblingEvents.Properties.Resources.resources
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents.csproj.GenerateResource.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-BubblingEvents\Wpf-BubblingEvents\obj\Debug\Wpf-BubblingEvents.pdb

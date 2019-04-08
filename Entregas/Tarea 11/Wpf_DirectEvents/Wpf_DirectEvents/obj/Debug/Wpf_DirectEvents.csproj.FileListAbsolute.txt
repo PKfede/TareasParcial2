@@ -1,0 +1,15 @@
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\bin\Debug\Wpf_DirectEvents.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\bin\Debug\Wpf_DirectEvents.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\bin\Debug\Wpf_DirectEvents.pdb
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.csprojAssemblyReference.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\MainWindow.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\App.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents_MarkupCompile.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents_MarkupCompile.lref
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\MainWindow.baml
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.g.resources
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.Properties.Resources.resources
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.csproj.GenerateResource.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf_DirectEvents\Wpf_DirectEvents\obj\Debug\Wpf_DirectEvents.pdb

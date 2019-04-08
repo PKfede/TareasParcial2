@@ -1,0 +1,9 @@
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\MainWindow.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\App.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\Wpf-DependencyProperty_MarkupCompile.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\Wpf-DependencyProperty_MarkupCompile.lref
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\UserControls\DPControl.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\UserControls\DPControl.baml
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\Wpf-DependencyProperty.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-DependencyProperty\Wpf-DependencyProperty\obj\Debug\Wpf-DependencyProperty.pdb
